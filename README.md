@@ -1,5 +1,8 @@
 
-# Assignment2-APLAB-KUMAR DEVASHISH; UID-22BCS10248
+# Assignment2-APLAB
+# NAME: KUMAR DEVASHISH
+# UID: 22BCS10248
+# SECTION/GROUP: 22BCS_FL_IOT-602-A
 # screenshot for each solution
 1763.[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/)<br>
 ![image](https://github.com/user-attachments/assets/8a32a0c8-2e48-4973-b353-9397c3629bb8)
