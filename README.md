@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QjJX_cA8)
-# Assignment2-APLAB-VISHALKUMAR-E18147 
-# Attache screenshot for each solution
+# Assignment2-APLAB-KUMAR DEVASHISH; UID-22BCS10248
+# screenshot for each solution
 1763.[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/)<br>
 ![image](https://github.com/user-attachments/assets/8a32a0c8-2e48-4973-b353-9397c3629bb8)
 
