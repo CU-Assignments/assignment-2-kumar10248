@@ -2,6 +2,8 @@
 # Assignment2-APLAB-VISHALKUMAR-E18147 
 # Attache screenshot for each solution
 1763.[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/)<br>
+![image](https://github.com/user-attachments/assets/8a32a0c8-2e48-4973-b353-9397c3629bb8)
+
 190.[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)<br>
 191.[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)<br>
 53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)<br>
