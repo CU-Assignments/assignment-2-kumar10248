@@ -35,6 +35,8 @@
 ![image](https://github.com/user-attachments/assets/beacb430-97a9-4037-9dc8-f2c786880279)
 
 278.[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)<br>
+![image](https://github.com/user-attachments/assets/3b5ecfdb-fb7d-4079-b662-9f44f538284a)
+
 
 75.[Sort Colors](https://leetcode.com/problems/sort-colors/description/)<br>
 ![image](https://github.com/user-attachments/assets/608db7a6-8a53-4cdd-8aff-1c5fef6836e2)
